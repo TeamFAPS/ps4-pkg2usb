@@ -21,5 +21,4 @@ This is a PS4 payload (based on Vortex’s dumper) to dump and run fake PKGs on 
 
 
 tip: if you still have the pkg and you want to avoid wasting time waiting for the file to be copied from the payload on the USB HDD,
-
 copy the pkg to X:\PS4\CUSAxxxxx\app.pkg
