@@ -1,6 +1,6 @@
-#PS4 PKG2USB – Dump and run Fake PKGs on USB – 4.05/4.55 Payload by SiSTRo
+# PS4 PKG2USB – Dump and run Fake PKGs on USB – 4.05/4.55 Payload by SiSTRo
 
-Today we present you PKG2USB, a PS4 payload (based on Vortex’s dumper) to dump and run fake PKGs on USB.
+This is a PS4 payload (based on Vortex’s dumper) to dump and run fake PKGs on USB.
 
 
 
